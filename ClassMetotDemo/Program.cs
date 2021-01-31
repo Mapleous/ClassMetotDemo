@@ -11,7 +11,7 @@ namespace ClassMetotDemo
             customer1.Id = 1;
             customer1.CustomerFirstName = "Russell";
             customer1.CustomerLastName = "Wilson";
-            customer1.CustemerAge = 32;
+            customer1.CustemerAge = 33;
             customer1.CustomerHometown = "Wisconsin";
 
             Musteri customer2 = new Musteri();
